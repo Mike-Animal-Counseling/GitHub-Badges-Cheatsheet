@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg?style=flat-square)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/yuanweize/GitHub-Badges-Cheatsheet?style=flat-square)](https://github.com/yuanweize/GitHub-Badges-Cheatsheet/stargazers)
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/yuanweize)
 
